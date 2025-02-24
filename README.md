@@ -3,6 +3,20 @@
 
 ---
 
+## **Updates**
+
+### **New Approach: Neural Networks**
+
+- Implemented a Neural Network model to enhance the prediction capability using deep learning.
+
+- Trained a multi-layer perceptron (MLP) with ReLU activation functions and a linear output layer.
+
+- Achieved MSE Test: 0.0215 and R² Test: 0.9931, demonstrating competitive performance with the Random Forest model.
+
+- Conducted a comparison between Random Forest and Neural Networks, evaluating accuracy and computational efficiency.
+
+---
+
 ## Project Scope
 
 ### **Goals**:
